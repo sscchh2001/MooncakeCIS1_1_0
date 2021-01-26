@@ -22,7 +22,7 @@ For the ones that can be deployed to Azure China cloud, we can create custom pol
 3. Have an Azure AD account with Tenant Root management group owner permission, or with Azure AD global admin permission.
 
 ## How to Use  
-1. Download the deploy.ps1 and *.json files to a local folder.
+1. Download files in the script folder to a local folder.
 2. Login Azure portal with an account that is the owner of the tenant root management group. Alternatively if you have an Azure AD global admin, follow https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin to elevate the permission, and assign the owner permission of the Tenant Root Group to the account.
 3. Open a PowerShell window, navigate to the local folder.
 4. Run deploy.ps1, and provide the Azure AD tenant ID when prompted.
