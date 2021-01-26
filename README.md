@@ -1,5 +1,5 @@
 # MooncakeCIS1_1_0
-This project is for Azure CIS Benchmark 1.1.0 in Azure China cloud.  
+This project is to deploy Azure CIS Benchmark 1.1.0 in Azure China cloud.  
 See [Details of the CIS Microsoft Azure Foundations Benchmark Regulatory Compliance built-in initiative](https://docs.microsoft.com/en-us/azure/governance/policy/samples/cis-azure-1-1-0) for details.
 
 ## Difference between Azure CIS Benchmark in public Azure cloud vs. Azure China cloud  
